@@ -41,3 +41,5 @@ The `PCA.ipynb` applies the PCA on breast cancer data with 30 features. The data
   
   This equation demonstrates how $V^T$ gives the rotation that maps or projects the original data vecotrs onto the unit eigenvectors or principal components V.
 
+- Relationship between SVD and PCA is best explained in [PCA, SVD relationship](https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca)
+

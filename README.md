@@ -23,12 +23,12 @@ The `PCA.ipynb` applies the PCA on breast cancer data with 30 features. The data
 ![biplot](./pics/biplot.png)
 ### Decision Boundary using Logistic Regression:
 ![boundary](./pics/boundary.png)
-# Additions in notes
+# Addition in notes
 - In notes, the projection of data X onto the unit eigenvectors V of the covariance matrix C is given by:
   
   $P = XV$
   
-  Where each row in X represents a data vector of a training example.
+  Where each row in X represents a data vector (that is, a training example).
   When transposing the matrices, we get:
   
   $P^T = (XV)^T$
